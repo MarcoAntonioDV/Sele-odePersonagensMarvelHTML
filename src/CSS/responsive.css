@@ -1,18 +1,3 @@
-@media (max-width: 1920px){
-    .cabecalho .titulo{
-        font-size: 40px;
-    }
-
-    .selecao-de-personagens .lista-de-personagens{
-        max-width: 330px;
-    }
-
-    .selecao-de-personagens .lista-de-personagens .personagem{
-        width: 100px;
-        height: 100px;
-    }
-}
-
 @media (max-width: 1280px){
     .cabecalho .titulo{
         font-size: 40px;
