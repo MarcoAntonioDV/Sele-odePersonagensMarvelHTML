@@ -71,8 +71,6 @@ main{
     bottom: 0px;
     width: 100%;
     font-size: 27px;
-    /* animation: text-glowing-red 1.2s ease-in-out infinite;
-    animation-duration: alternate; */
 }
 
 .selecao-de-personagens .personagem-grande.personagem-jogador-1 .nome::before{
