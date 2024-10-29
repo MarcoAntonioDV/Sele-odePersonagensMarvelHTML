@@ -39,7 +39,7 @@
     }
 }
 
-@media (max-width: 767px){
+@media (max-width: 768px){
     body::before{
         background-image: url("../images/bg-mobile.jpg");
         background-repeat: no-repeat;
